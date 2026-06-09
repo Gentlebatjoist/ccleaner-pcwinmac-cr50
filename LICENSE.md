@@ -1,4 +1,4 @@
-# 
+# 即时 CCleaner 模板 Mac OS版 | 开源 CCleaner 模板 PC Windows版。集成 系统托盘集成 和 电源管理，跨平台性能最大化。
 
 
 
